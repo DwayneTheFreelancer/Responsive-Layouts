@@ -1,0 +1,12 @@
+.main {
+  padding: 30px 0;
+}
+
+.main article h1 {
+  @extend %font-size;
+}
+
+.main aside {
+  color: white;
+  @extend %padding;
+}

@@ -1,0 +1,8 @@
+.wrapper {
+  @extend %width;
+  margin: 0 auto;
+}
+
+.header-container {
+    border-bottom: 20px solid #599a68;
+}
